@@ -19,8 +19,8 @@ To install and run Android applications using Android Studio, This project aims 
 ## PROGRAM:
 ```
 Program to print the list of item.
-Developed by:SUJI S
-Registeration Number :212222040164
+Developed by: Vijis Durai R
+Registeration Number : 212222220057
 ```
 
 ## ALGORITHM:
@@ -41,6 +41,4 @@ step 6: View the output on the device/emulator to verify the app is working.
 
 The Android application was successfully installed and executed using Android Studio. The output "Hello, Android!" was displayed on the screen of the emulator/physical device, 
 confirming that the setup, coding, and execution process was completed correctly.
-
-
 
